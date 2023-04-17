@@ -1,4 +1,4 @@
-Access the project through this [phanir9.ccbp.tech]
+Access the project through this (https://phanir9.ccbp.tech/)[link]
 
 The login details are:
 
